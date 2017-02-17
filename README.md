@@ -1,6 +1,8 @@
 # warden_json_cleaner
 
-script removing from input file invalid jsons and Category == 'Test'
+* sorting json by .DetectTime
+* removing invalid jsons
+* removing .Category == 'Test'
 
 
 example:
